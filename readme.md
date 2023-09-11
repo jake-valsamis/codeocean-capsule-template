@@ -20,7 +20,7 @@ _Note: do **not** import this repository directly. Instead, use this repository 
 
     _See the [Git provider integration guide](https://docs.codeocean.com/user-guide/git-provider-integration-guide/setting-up-the-integration) for instructions._
 
-1. In CodeOcean, click the + symbol in the left sidebar to create a new capsule, then click "Clone from CajalNeuroscience":
+1. In CodeOcean, click the + symbol in the left sidebar to create a new capsule, then click "Clone from Git":
 
     ![Screenshot of the new capsule menu in CodeOcean.](docs/img/clone-from-git.png)
 
