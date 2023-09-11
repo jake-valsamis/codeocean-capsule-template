@@ -22,7 +22,7 @@ _Note: do **not** import this repository directly. Instead, use this repository 
 
 1. In CodeOcean, click the + symbol in the left sidebar to create a new capsule, then click "Clone from CajalNeuroscience":
 
-    ![Screenshot of the new capsule menu in CodeOcean.](docs/img/clone-from-cajal.png)
+    ![Screenshot of the new capsule menu in CodeOcean.](docs/img/clone-from-git.png)
 
 1. In the pop-up dialog, enter the URL of the GitHub repository you created in step 1. Click "Clone". Once the clone is complete, you will be taken to the capsule IDE where you can view the code, add data, and perform reproducible runs.
 
