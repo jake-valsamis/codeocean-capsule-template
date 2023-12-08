@@ -1,6 +1,6 @@
 metadata_version: 1
-name: CodeOcean Capsule Template
+name: Code Ocean Capsule Template
 description:
-  A template for creating new CodeOcean capsules from GitHub.
+  A template for creating new Code Ocean capsules from GitHub.
 authors:
   - name: Capsule Creator
