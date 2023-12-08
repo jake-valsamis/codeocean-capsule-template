@@ -10,7 +10,7 @@ _Note: do **not** import this repository directly. Instead, use this repository 
 
     ![Screenshot of this repository in GitHub showing how to create a new repository from the template.](docs/img/use-as-template.png)
 
-    In the following screen, you can choose a name for your repository and optionally enter a description. You should add the `-capsule` suffix to your repository name to make it easier to identify.
+    In the following screen, you can choose a name for your repository and optionally enter a description. You can add the `-capsule` suffix to your repository name to make it easier to identify.
 
 1. In your newly created repository, update the [`metadata/metadata.yml`](metadata/metadata.yml) file with the name and description of your capsule. You can also update the `authors` field with your name.
 
